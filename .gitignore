@@ -1,0 +1,21 @@
+# ARCHIVOS DEL SISTEMA Y TEMPORALES
+*.tmp
+*.temp
+*.log
+.DS_Store
+Thumbs.db
+
+# ARCHIVOS DE EDITORES DE CÓDIGO
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# ARCHIVOS DE CACHÉ Y TEMPORALES
+*.cache
+*.bak
+*.backup
+
+# ARCHIVOS DE IMÁGENES TEMPORALES
+*.tmp.jpg
+*.tmp.png
